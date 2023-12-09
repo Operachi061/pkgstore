@@ -1,0 +1,15 @@
+.dc {
+    margin: 270px 48%;
+    background-color: #7289da;
+    color: #ffffff;
+}
+.title {
+    font-size: 27.2px; 
+    text-align: center;
+    margin: 250px 0px;
+}
+.dtitle {
+    font-size: 20.2px; 
+    text-align: center;
+    margin: -250px 0px;
+}
